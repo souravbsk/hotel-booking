@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "roomTitle": "Deluxe King Room",
+    "price": 250,
+    "pic": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "paragraph": "The Deluxe King Room is our most luxurious option, featuring a king-size bed, high-end furnishings, and spectacular views of the city.",
+    "bed": "1",
+    "person": "2",
+    "category": "Luxury"
+  },
+  {
+    "Id": 2,
+    "roomTitle": "Standard Double Room",
+    "price": 120,
+    "pic": "https://images.unsplash.com/flagged/photo-1556438758-8d49568ce18e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+    "paragraph": "The Standard Double Room is a comfortable and affordable option for those looking for a cozy stay. This room features two double beds and all the amenities you need.",
+    "bed": "2",
+    "person": "4",
+    "category": "Basic"
+  },
+  {
+    "Id": 3,
+    "roomTitle": "Executive Suite",
+    "price": 350,
+    "pic": "https://images.unsplash.com/photo-1505693314120-0d443867891c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1218&q=80",
+    "paragraph": "The Executive Suite is the perfect choice for those seeking ultimate comfort and style. This spacious suite",
+    "bed": "1 king bed",
+    "person": "2",
+    "category": "Luxury"
+  },
+
+  {
+    "Id": 4,
+    "roomTitle": "Family Suite",
+    "price": 200,
+    "pic": "https://images.unsplash.com/photo-1586638861903-5e6f87dfb86a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1129&q=80",
+    "paragraph": "The Family Suite is perfect for those traveling with children. This room features a king-size bed and a separate area with bunk beds for the kids. Plus, you'll love the stunning views from your private balcony.",
+    "bed": "2",
+    "person": "4",
+    "category": "Family"
+  },
+
+  {
+    "Id": 5,
+    "roomTitle": "Couple's Retreat",
+    "price": 300,
+    "pic": "https://images.unsplash.com/photo-1514480941181-059274803e24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "paragraph": "Our Couple's Retreat is the ultimate romantic getaway. This room features a luxurious queen-size bed, a private balcony with stunning views, and all the amenities you need for a cozy and intimate stay.",
+    "bed": "1",
+    "person": "2",
+    "category": "Romantic"
+  }
+]
